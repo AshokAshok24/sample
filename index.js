@@ -3,3 +3,4 @@ var b = 20;
 var d = 200;
 var e = 100;
 var result = a + b;
+var newresult = d + e;
